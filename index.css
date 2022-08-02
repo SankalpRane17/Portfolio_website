@@ -1,0 +1,137 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Navbar ul {
+    border-style:solid;
+    list-style: none;
+    display: flex;
+    padding: 20px;
+}
+.home{
+    padding-left: 150px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.list ul  {
+    display: flex;
+}
+.work{
+    padding-left: 25px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.qual{
+    padding-left: 25px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.pro{
+    padding-left: 25px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif; 
+}
+.Name{
+    padding-right: 200px;
+    padding-left: 70px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.button{
+    padding-left: 300px;  
+}
+.but{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: aliceblue;
+    background-color: white;
+}
+.img1{
+    
+    height: 525px;   
+}
+.intro {
+   
+    padding-top: 60px;
+    width: 730px;   
+}
+.name{
+    padding-left: 80px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;  
+}
+.img{
+    width:500px;
+    height: 525px;
+    padding-top: 0%;
+}
+.split{
+   display: flex;
+}
+.n1{
+    padding-left: 80px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 10px;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+.buttons{
+    padding-left: 80px;
+    padding-bottom: 80px;
+}
+.button1{
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    background-color: rgb(255, 103, 47);
+    border-color: aliceblue;
+    color: aliceblue;
+}
+.button2{
+    padding-inline-start: 20px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    background-color:white;
+    border-color: white;
+    color:black;
+}
+.contact{
+    padding-top: 20px;
+    padding-bottom: 47px;
+    background-color: rgb(33, 29, 29);
+    color: aliceblue;
+}
